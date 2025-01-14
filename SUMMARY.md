@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Factory Sound Website Bug Tracking](README.md)
