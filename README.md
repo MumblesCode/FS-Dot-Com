@@ -13,7 +13,7 @@ description: >-
 
 * [**Production Site**](https://factorysound.com)
 * [**Development Site**](https://develo25.factorysound.com)
-* <mark style="color:blue;">**Web 2.0**</mark> [**Bug Tracking Sheet**](https://docs.google.com/spreadsheets/d/1kebZcq6xMJHYXPueifhZGvzgTV3IY3i4eAGtT6lxw5Y/edit?usp=sharing)
+* [**Web 2.0 Bug Tracking Sheet**](https://docs.google.com/spreadsheets/d/1kebZcq6xMJHYXPueifhZGvzgTV3IY3i4eAGtT6lxw5Y/edit?usp=sharing)
 
 ## Factory Sound Bug Reporting Guide
 
@@ -25,7 +25,7 @@ description: >-
    * 🎨 **Format**: Styling or layout issues.
    * ➕ **Missing Feature**: Something needed but not yet implemented.
 2. **Log the Issue**:
-   * Go to \[Google Sheet Bug Tracker]\(INSERT LINK HERE).
+   * Go to https://docs.google.com/spreadsheets/d/1kebZcq6xMJHYXPueifhZGvzgTV3IY3i4eAGtT6lxw5Y/edit?usp=sharing.
    * Fill in the **Date**, **Type**, **Description**, **URL**, and **Browser/System**.
 3. **Attach Files (if needed)**:
    * Upload screenshots or text files in the `Attachments` folder \[here]\(LINK TO GITHUB ATTACHMENTS FOLDER).
