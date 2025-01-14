@@ -25,10 +25,10 @@ description: >-
    * 🎨 **Format**: Styling or layout issues.
    * ➕ **Missing Feature**: Something needed but not yet implemented.
 2. **Log the Issue**:
-   * Go to https://docs.google.com/spreadsheets/d/1kebZcq6xMJHYXPueifhZGvzgTV3IY3i4eAGtT6lxw5Y/edit?usp=sharing.
+   * Go to [Google Sheet Bug Tracker](https://docs.google.com/spreadsheets/d/1kebZcq6xMJHYXPueifhZGvzgTV3IY3i4eAGtT6lxw5Y/edit?usp=sharing).
    * Fill in the **Date**, **Type**, **Description**, **URL**, and **Browser/System**.
 3. **Attach Files (if needed)**:
-   * Upload screenshots or text files in the `Attachments` folder \[here]\(LINK TO GITHUB ATTACHMENTS FOLDER).
+   * Upload screenshots or text files in the `Attachments` folder [here](https://github.com/MumblesCode/FS-Dot-Com/tree/main/Attachments).
    * Drag and drop files directly!
 4. **Example Report**:
    * Date: 14/01/2025
